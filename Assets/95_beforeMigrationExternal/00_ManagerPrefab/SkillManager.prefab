@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3965797134519714135
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8080980880964937163}
+  - component: {fileID: 4422470657037668441}
+  m_Layer: 0
+  m_Name: SkillManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8080980880964937163
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3965797134519714135}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2.4474964, y: 1.0777533, z: 6.2936244}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4422470657037668441
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3965797134519714135}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73e92e9211cc6854996a5e3691dfe575, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Skill01_Prefab: {fileID: 4341305752956443743, guid: 7ec39c1c6a562cd44b9de8c40ef94db0, type: 3}
+  Skill02_Prefab: {fileID: 734770496007396775, guid: d38d568d2de0d2d4d980ce4451626a28, type: 3}
+  Skill03_Prefab: {fileID: 8390894624337281444, guid: 6460e83efd6dde64f9934a85166f51b0, type: 3}
+  Skill04_Prefab: {fileID: 792873755231255786, guid: 0cab32751da68624bae3267028b80616, type: 3}
+  Skill05_Prefab: {fileID: -6683693261445766683, guid: 9c5fd25255983a740a0dba2b18352d1c, type: 3}
+  Skill06_Prefab: {fileID: 0}
+  Skill07_Prefab: {fileID: 1138598801832093368, guid: 9a41b32cdfec0ca4188e63d2b94b46d6, type: 3}
+  Skill08_Prefab: {fileID: 7022438805791217197, guid: b01fc94cfc1e070409aa1261ec9d2ffb, type: 3}
+  DefaultSkillIcon: {fileID: 21300000, guid: c7df462ad440b1945b212b86001849aa, type: 3}
+  SkillIconSet:
+  - {fileID: 21300000, guid: d64e4c0baa5a98f40831a34edcac7142, type: 3}
+  - {fileID: 21300000, guid: 1f4a1286bac813049bd2b38726ad39e9, type: 3}
+  - {fileID: 21300000, guid: cac9817b8f6c81948a0a179ddbd72728, type: 3}
+  - {fileID: 21300000, guid: ae162d80eede91f4fbe7531045b38bf7, type: 3}
+  - {fileID: 21300000, guid: b24c80d3dedf5084db227d2ed4ba9b4e, type: 3}
+  - {fileID: 21300000, guid: 7f41a56fd92cebd4aaa62edb5614ab31, type: 3}
+  - {fileID: 21300000, guid: 5167276962655a447babe295ecca4d3d, type: 3}
+  - {fileID: 21300000, guid: 33da3f4cc3ed5ba4789b908383001774, type: 3}
+  KeyZ: 8
+  KeyX: 8
+  KeyC: 8
+  KeyZSprite: {fileID: 0}
+  KeyXSprite: {fileID: 0}
+  KeyCSprite: {fileID: 0}

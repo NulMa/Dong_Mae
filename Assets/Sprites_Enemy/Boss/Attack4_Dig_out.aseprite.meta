@@ -1,0 +1,503 @@
+fileFormatVersion: 2
+guid: f39fa09cab982274aa87a5543d6a4dcb
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Attack4_Dig_out_Frame_0
+    originalName: 
+    pivot: {x: 1.0364964, y: 0.6637168}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 90
+      width: 137
+      height: 113
+    spriteID: 0714982e9aa5f8448ad6baa12a642bbf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 245, y: 90}
+  - name: Attack4_Dig_out_Frame_1
+    originalName: 
+    pivot: {x: 1.0747663, y: -0.18681319}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 390
+      y: 90
+      width: 107
+      height: 91
+    spriteID: 1db08e235cecce044bb9515a275deab8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 390, y: 90}
+  - name: Attack4_Dig_out_Frame_2
+    originalName: 
+    pivot: {x: 0.882353, y: -0.16190477}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 211
+      width: 119
+      height: 105
+    spriteID: 41c89de6bb0fedc468c1203b4bb7de45
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 245, y: 211}
+  - name: Attack4_Dig_out_Frame_3
+    originalName: 
+    pivot: {x: 0.49339205, y: -0.15454546}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 276
+      width: 227
+      height: 110
+    spriteID: 4b8f7162142755245819e03fbdf603cf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 276}
+  - name: Attack4_Dig_out_Frame_4
+    originalName: 
+    pivot: {x: 0.4892704, y: -0.11678832}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 233
+      height: 137
+    spriteID: f7fa9694e563c964f8690de653dc5091
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -10, y: -12}
+  - name: Attack4_Dig_out_Frame_5
+    originalName: 
+    pivot: {x: 0.51502144, y: -0.12605043}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 149
+      width: 233
+      height: 119
+    spriteID: 88ac7558d848b2f439746b818bda5ddb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 149}
+  - name: Attack4_Dig_out_Frame_6
+    originalName: 
+    pivot: {x: 0.44174758, y: -0.12727273}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 394
+      width: 206
+      height: 110
+    spriteID: da4093ece7d55b740b5a6ccfadf23d34
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 394}
+  - name: Attack4_Dig_out_Frame_7
+    originalName: 
+    pivot: {x: 0.44221106, y: -0.17948718}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 4
+      width: 199
+      height: 78
+    spriteID: 566c248ec3e31e347bcf189a5a779a99
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 245, y: 4}
+  - name: Attack4_Dig_out_Frame_8
+    originalName: 
+    pivot: {x: 0.29545456, y: -0.21212122}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 372
+      y: 211
+      width: 132
+      height: 66
+    spriteID: 0f81ecfc638d97748bb55a34593eba7a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 372, y: 211}
+  - name: Attack4_Dig_out_Frame_9
+    originalName: 
+    pivot: {x: 0.18666667, y: -0.35135132}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 324
+      width: 75
+      height: 37
+    spriteID: 5e08eb3b4dcc14f42bfdceb95f91e94d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 245, y: 324}
+  - name: Attack4_Dig_out_Frame_10
+    originalName: 
+    pivot: {x: 0.22988506, y: -0.46666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 369
+      width: 87
+      height: 30
+    spriteID: cc90dfeabff03bd4191e8665d22228ca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 245, y: 369}
+  - name: Attack4_Dig_out_Frame_11
+    originalName: 
+    pivot: {x: -0.23076923, y: -2.3333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 452
+      y: 4
+      width: 39
+      height: 6
+    spriteID: bfc247fc0637d314d89d935e02d61d15
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 452, y: 4}
+  - name: Attack4_Dig_out_Frame_12
+    originalName: 
+    pivot: {x: -0.40000004, y: -2.8}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 328
+      y: 324
+      width: 30
+      height: 5
+    spriteID: 057ecc96ca51d0f4bb41fd919168f517
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 328, y: 324}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1170446586
+    name: Attack4_Dig_out
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Attack4_Dig_out_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: -14
+        y: -75
+        width: 137
+        height: 113
+      spriteId: 0714982e9aa5f8448ad6baa12a642bbf
+    - name: Attack4_Dig_out_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 13
+        y: 17
+        width: 107
+        height: 91
+      spriteId: 1db08e235cecce044bb9515a275deab8
+    - name: Attack4_Dig_out_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 23
+        y: 17
+        width: 119
+        height: 105
+      spriteId: 41c89de6bb0fedc468c1203b4bb7de45
+    - name: Attack4_Dig_out_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 16
+        y: 17
+        width: 227
+        height: 110
+      spriteId: 4b8f7162142755245819e03fbdf603cf
+    - name: Attack4_Dig_out_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 0
+        y: 0
+        width: 256
+        height: 160
+      spriteId: f7fa9694e563c964f8690de653dc5091
+    - name: Attack4_Dig_out_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 8
+        y: 15
+        width: 233
+        height: 119
+      spriteId: 88ac7558d848b2f439746b818bda5ddb
+    - name: Attack4_Dig_out_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 37
+        y: 14
+        width: 206
+        height: 110
+      spriteId: da4093ece7d55b740b5a6ccfadf23d34
+    - name: Attack4_Dig_out_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 40
+        y: 14
+        width: 199
+        height: 78
+      spriteId: 566c248ec3e31e347bcf189a5a779a99
+    - name: Attack4_Dig_out_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 89
+        y: 14
+        width: 132
+        height: 66
+      spriteId: 0f81ecfc638d97748bb55a34593eba7a
+    - name: Attack4_Dig_out_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 114
+        y: 13
+        width: 75
+        height: 37
+      spriteId: 5e08eb3b4dcc14f42bfdceb95f91e94d
+    - name: Attack4_Dig_out_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 108
+        y: 14
+        width: 87
+        height: 30
+      spriteId: cc90dfeabff03bd4191e8665d22228ca
+    - name: Attack4_Dig_out_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 137
+        y: 14
+        width: 39
+        height: 6
+      spriteId: bfc247fc0637d314d89d935e02d61d15
+    - name: Attack4_Dig_out_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 140
+        y: 14
+        width: 30
+        height: 5
+      spriteId: 057ecc96ca51d0f4bb41fd919168f517
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 256, y: 160}
